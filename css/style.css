@@ -6,9 +6,9 @@
 body{
     font-size: 1rem;
     font-family: 'Lucida Sans',
-     'Lucida Sans Regular', 
+     'Lucida Sans Unicode', 
      'Lucida Grande',
-      'Lucida Sans Unicode',Geneva, Verdana, sans-serif;
+      'Lucida Sans ',arial, sans-serif;
       background-color: #e6e6e6;
 }
 #area-cabecalho{
